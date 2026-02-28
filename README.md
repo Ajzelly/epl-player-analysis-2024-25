@@ -11,7 +11,6 @@ statistics from the 2024/25 season.
 - Identifies the most dangerous progressive ball-carrying midfielders
 
 ## Results
-- Position prediction accuracy: XX% on unseen test data
 - Cole Palmer predicted as MID with 85.9% confidence
 - Erling Haaland predicted as FWD with 99.6% confidence
 - K-Means naturally discovered 5 distinct player roles
